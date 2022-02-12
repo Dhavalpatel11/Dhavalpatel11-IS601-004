@@ -9,6 +9,10 @@ def process_array(num, arr):
     print(arr)
     print("\nPositive Output:\n")
     # TODO add new code here to print the desired result
+    for i in range(len(arr)):
+        arr[i]=int(arr[i])
+        if arr[i] >=0:
+            print(arr[i])
 
 
 print("Problem 3")
