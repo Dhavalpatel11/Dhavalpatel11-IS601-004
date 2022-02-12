@@ -5,9 +5,9 @@ a4 = ["-1", "2", "-3", "4", "-5", "5", "-6", "6", "-7", "7"]
 
 
 def process_array(num, arr):
-    print("\nProcessing Array({}): \n\n".format(num))
+    print("\nProcessing Array({}): ".format(num))
     print(arr)
-    print("\nPositive Output:\n")
+    print("\nPositive Output:")
     # TODO add new code here to print the desired result
     for i in range(len(arr)):
         arr[i]=int(arr[i])
