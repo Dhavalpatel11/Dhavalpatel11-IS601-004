@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> Mini Project 2_Advanced Calculator</td></tr>
 <tr><td> <em>Student: </em> Dhaval Patel(dap44)</td></tr>
-<tr><td> <em>Generated: </em> 3/13/2022 10:15:33 PM</td></tr>
+<tr><td> <em>Generated: </em> 3/13/2022 11:16:30 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IS601-004-S22/mini-project-2_advanced-calculator/grade/dap44" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <p>Prepare your workspace</p>
 <ol>
@@ -182,6 +182,7 @@ As well as testing the new square and square root modifications.</li>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Mention any difficulties and how you overcame them or what you learned during this mini project.</td></tr>
 <tr><td> <em>Response:</em> <p>Merging the new functions in the simple calculator but making different functions was<br>easy. Passing csv file in the test cases.<br></p><br></td></tr>
 <tr><td> <em>Sub-Task 2: </em> Pull Request Link(s) for this project</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/Dhavalpatel11/Dhavalpatel11-IS601-004/pull/10">https://github.com/Dhavalpatel11/Dhavalpatel11-IS601-004/pull/10</a> </td></tr>
 <tr><td>Not provided</td></tr>
 </table></td></tr>
 <table><tr><td><em>Grading Link: </em><a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IS601-004-S22/mini-project-2_advanced-calculator/grade/dap44" target="_blank">Grading</a></td></tr></table>
