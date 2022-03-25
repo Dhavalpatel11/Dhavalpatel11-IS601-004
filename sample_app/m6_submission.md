@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> Sample Flask App and Readings</td></tr>
 <tr><td> <em>Student: </em> Dhaval Patel(dap44)</td></tr>
-<tr><td> <em>Generated: </em> 3/24/2022 11:50:17 PM</td></tr>
+<tr><td> <em>Generated: </em> 3/24/2022 11:59:03 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IS601-004-S22/sample-flask-app-and-readings/grade/dap44" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <ol>
 <li>Follow the slides from class.</li>
@@ -28,9 +28,9 @@
 <tr><td> <em>Sub-Task 2: </em> Add a direct link to the app here</td></tr>
 <tr><td> <a rel="noreferrer noopener" target="_blank" href="https://is601-flask-immi6kxd6a-uc.a.run.app/">https://is601-flask-immi6kxd6a-uc.a.run.app/</a> </td></tr>
 </table></td></tr>
-<table><tr><td> <em>Deliverable 2: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/f2c037/000000?text=Partial"></td></tr>
+<table><tr><td> <em>Deliverable 2: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Add a link to the pull request from Flask-Sample to Dev</td></tr>
-<tr><td>Not provided</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/Dhavalpatel11/Dhavalpatel11-IS601-004/pull/16">https://github.com/Dhavalpatel11/Dhavalpatel11-IS601-004/pull/16</a> </td></tr>
 <tr><td> <em>Sub-Task 2: </em> Did you have any issues during setup and if so how did you resolve them?</td></tr>
 <tr><td> <em>Response:</em> <p>Created unecesaary files and the working directory was not proper.<br></p><br></td></tr>
 </table></td></tr>
